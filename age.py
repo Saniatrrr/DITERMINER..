@@ -25,6 +25,7 @@ __________________×______________________
 __________________×______________________\033[1;37m""")
 logo = "\u001b[32m_____________[AGE DITERMINER]_____________"
 #####function#######
+os.system('clear')
 print(logos)
 print(logo)
 print("present year")
